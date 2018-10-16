@@ -8,48 +8,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="weibo-weixin">微信公众号</h3>
 * 代码技巧：专注分享 开发相关的技术文章和工具资源
 <br><img src="http://www.phpxs.com/images/daimajiqiao.jpg" width=150 height=150>
-### 我们要做什么？
-
-- 基于 awesome-php 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Snappy：压缩工具的 PHP 扩展](http://hao.jobbole.com/snappy-php/)》
-  - 《[phy-yaf：一个用C语言编写的php框架](http://hao.jobbole.com/phy-yaf/)》
-
-* * *
-
-### 如何参与本项目？
-
-<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 有 PHP 开发经验；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「PHP大全」 -->
-
-* * *
-
-### 本项目的参与者
-
-- 维护者：[tangyouhua](https://github.com/tangyouhua)
-
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[wispedia](http://www.jobbole.com/members/wispedia/)、[CmderQ](https://github.com/CmderQ)、[kevinskywalker](https://github.com/kevinskywalker)、You
-
-注：名单不分排名，不定期补充更新
-
-* * *
-
-<!-- ### 奖励计划
-
-虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
-
-* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
-* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [官奖励详情网](http://hao.jobbole.com/rewards/)
-
-* * * -->
-
 
 ## 依赖管理
 
