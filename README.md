@@ -5,7 +5,9 @@
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
 * * *
-
+<h3 id="weibo-weixin">微信公众号</h3>
+* 代码技巧：专注分享 开发相关的技术文章和工具资源
+<br><img src="http://www.phpxs.com/images/daimajiqiao.jpg" width=150 height=150>
 ### 我们要做什么？
 
 - 基于 awesome-php 资源列表，我们将对各个资源项进行编译整理。
@@ -828,7 +830,3 @@ _阅读PHP内核或性能相关的资料_
 *   开发人员的PHP源代码： [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html)：关于PHP源代码的系列
 *   垃圾收集： [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) 关于PHP垃圾收集原理的系列
 
-
-<h3 id="weibo-weixin">微信公众号</h3>
-* PHP开发者：专注分享 PHP 开发相关的技术文章和工具资源
-<br><img src="http://ww1.sinaimg.cn/small/63918611gw1epb2cb1xq0j2046046dgv.jpg" width=150 height=150>
